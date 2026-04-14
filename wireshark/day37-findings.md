@@ -1,0 +1,3 @@
+- Detected mass port scanning activity: 140,000 inbound SYN packets with no corresponding ACK responses, consistent with a TCP SYN scan sweep across multiple ports.
+- Identified DNS reconnaissance: VERSION.BIND query observed, indicating an attacker probing the DNS server to fingerprint software version and aid target profiling.
+- Observed web application probing: HTTP GET request to `/login.rsp` detected, suggesting automated or manual enumeration of login endpoints on the target web server.
