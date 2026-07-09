@@ -1,0 +1,83 @@
+========================================
+Indicators of Compromise (IOCs)
+========================================
+
+Investigation Date
+------------------
+09 July 2026
+
+Incident ID
+-----------
+PHISH-2026-001
+
+Email Subject
+-------------
+A Hope to CoCanDa
+
+Sender Name
+-----------
+Bill
+
+Sender Email
+------------
+billjobs@microapple.com
+
+Reply-To Address
+----------------
+negeja3921@pashter.com
+
+Recipient
+---------
+themajoronearth@gmail.com
+
+Return-Path
+-----------
+billjobs@microapple.com
+
+Sender Domain
+-------------
+microapple.com
+
+Sending Host
+------------
+emkei.cz
+
+Sending IP Address
+------------------
+93.99.104.210
+
+Attachment Name
+---------------
+PuzzleToCoCanDa.pdf
+
+Claimed File Type
+-----------------
+PDF Document
+
+Actual File Type
+----------------
+ZIP Archive
+
+Magic Bytes
+-----------
+50 4B 03 04
+
+Email Authentication
+--------------------
+SPF : FAIL
+DKIM : Not Observed
+DMARC : Not Observed
+
+MITRE ATT&CK
+------------
+T1566      - Phishing
+T1566.001  - Spearphishing Attachment
+
+VirusTotal
+-----------
+Host: emkei.cz
+Detection: 5/91 Security Vendors Flagged as Malicious
+
+Classification
+--------------
+Confirmed Phishing
