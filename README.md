@@ -1,1 +1,0 @@
-# soc-analyst-portfolio
